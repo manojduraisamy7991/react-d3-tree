@@ -1,0 +1,16 @@
+
+
+.myLabelComponentInSvg {
+  height: 100px;
+  width: 180px;
+}
+.my-img {
+  height: 50px;
+  width: 70px;
+  border-radius: 5px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
